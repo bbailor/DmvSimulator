@@ -15,6 +15,7 @@ public class DmvSimulator
 
         System.out.println("Your number was called. Unfortunately, we are not accepting your paperwork.");
         System.out.println("Please don't come back. Thank you! Muah hah hah haaaaaaa");
+        System.out.println("Please don't come back until you obtain the skill of using common sense. Like using the internet and seeing what you should need and not waste my time in my line standing around like an idiot. Even my grandman could do that and she's 98!");
 
         
 
