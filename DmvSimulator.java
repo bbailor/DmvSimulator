@@ -13,7 +13,7 @@ public class DmvSimulator
             System.out.println("Calling number " + ((i % 200) + 1));
         }
 
-        System.out.println("\nYour number, " + randomNum + ", was called. Unfortunately, we are not accepting your paperwork.");
-        System.out.println("Please don't come back. Thank you!");
+        System.out.println("Your number was called. Unfortunately, we are not accepting your paperwork.");
+        System.out.println("Please don't come back until you obtain the skill of using common sense. Like using the internet and seeing what you should need and not waste my time in my line standing around like an idiot. Even my grandman could do that and she's 98!  Muah hah hah haaaaaaa");
     }
 }
